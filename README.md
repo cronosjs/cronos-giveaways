@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/cronos-team/cronos">
-    <img src="https://cdn.discordapp.com/attachments/792903485594665000/848953699321380884/by_cronos.png" alt="cronos giveaways" />
+    <img src="https://cdn.discordapp.com/attachments/792903485594665000/848959033921503253/by_cronos.png" alt="cronos giveaways" />
   </a>
 </p> 
 
