@@ -1,0 +1,26 @@
+{
+  "name": "cronos-giveaways",
+  "version": "1.0.0",
+  "description": "A mongodb framework for setting up a giveaways system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cronos-team/cronos-giveaways.git"
+  },
+  "keywords": [
+    "giveaways",
+    "discord",
+    "mongoose",
+    "mongodb",
+    "framework"
+  ],
+  "author": "Cronos Team (https://github.com/cronos-team)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronos-team/cronos-giveaways/issues"
+  },
+  "homepage": "https://github.com/cronos-team/cronos-giveaways#readme"
+}
