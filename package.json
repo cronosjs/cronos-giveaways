@@ -11,6 +11,7 @@
     "url": "git+https://github.com/cronos-team/cronos-giveaways.git"
   },
   "keywords": [
+    "cronos",
     "giveaways",
     "discord",
     "mongoose",
